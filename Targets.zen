@@ -16,10 +16,14 @@ remark = Welcome to the SmokePing website of a Zen Internet connection. Here you
 
 
 
-+ Local
-menu = Local
-title = Local Network
-#parents = owner:/Test/James location:/
++ Zen-Local
+menu = Zen-Local
+title = Zen Local Stuff
+
+++ Default-GW
+menu = Default-GW
+title = Zen Router
+host = 192.168.0.2
 
 + ISP
 menu = ISP
