@@ -10,8 +10,8 @@ remark = Welcome to the SmokePing website of a Virgin Media connection. \
 
 + Virgin
 
-menu = Virgin-Infra
-title = Virgin Infrastructure
+menu = Virgin-Local
+title = Virgin Local Stuff
 
 ++ Local-GW
 menu = Local-GW
