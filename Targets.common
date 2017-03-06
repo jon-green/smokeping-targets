@@ -1,0 +1,44 @@
++ Internet
+
+menu = Internet
+title = General Internet Hosts
+
+++ BBC
+menu = BBC
+title = bbc.co.uk
+host = bbc.co.uk
+
+++ Google
+menu = Google
+title = google.co.uk
+host = google.co.uk
+
+++ Facebook
+menu = Facebook
+title = facebook.com
+host = facebook.com
+
+++ Twitter
+menu = Twitter
+title = twitter.com
+host = twitter.com
+
+++ ThinkBroadband
+menu = ThinkBroadband
+title = thinkbroadband.com
+host = thinkbroadband.com
+
+++ Plusnet
+menu = Plusnet
+title = ntp.plus.net
+host = ntp.plus.net
+
+++ Zen
+menu = Zen
+title = echo.zen.co.uk
+host = echo.zen.co.uk
+
+++ AAISP-L2TP
+menu = AAISP-L2TP
+title = AAISP L2TP Server
+host = 90.155.53.19
