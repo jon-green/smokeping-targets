@@ -8,22 +8,12 @@ remark = Welcome to the SmokePing website of a Sky Broadband connection. \
          Here you will learn all about the latency of our network.
 
 
-+ Sky
++ Sky-Local
 
-menu = Sky-Infra
-title = Sky Infrastructure
+menu = Sky-Local
+title = Sky Local Stuff
 
-++ DNS1
-menu = DNS1
-title = dns1.skybroadband.com
-host = 90.207.238.97
-
-++ DNS2
-menu = DNS2
-title = dns2.skybroadband.com
-host = 90.207.238.99
-
-++ NTP
-menu = NTP1
-title = ntp1.isp.sky.com
-host = 90.207.238.105
+++ Default-GW
+menu = Default-FW
+title = Sky Router
+host = 192.168.0.1
