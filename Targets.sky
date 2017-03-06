@@ -14,6 +14,6 @@ menu = Sky-Local
 title = Sky Local Stuff
 
 ++ Default-GW
-menu = Default-FW
+menu = Default-GW
 title = Sky Router
 host = 192.168.0.1
