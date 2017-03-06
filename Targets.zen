@@ -50,54 +50,7 @@ menu = Sky-NTP
 title = Sky-NTP
 host = ntp1.isp.sky.com
 
-+ Zen
-menu = Zen
-title = Zen
 
-++ Zen-CDNS1
-menu = Zen-CDNS1
-title = Zen-CDNS1
-host = 212.23.3.100
-
-++ Zen-CDNS2
-menu = Zen-CDNS2
-title = Zen-CDNS2
-host = 212.23.6.100
-
-++ Zen-Lon-Step
-menu = Zen-Lon-Step
-title = Zen-Lon-Step
-host = 62.3.90.110
-
-++ Zen-Lon-Far
-menu = Zen-Lon-Far
-title = Zen-Lon-Far
-host = 62.3.90.125
-
-++ Zen-Sthbk-Far
-menu = Zen-Sthbk-Far
-title = Zen-Sthbk-Far
-host = 62.3.90.117
-
-++ Zen-Sthbk-Step
-menu = Zen-Sthbk-Step
-title = Zen-Sthbk-Step
-host = 62.3.90.114
-
-++ Zen-StaffColo
-menu = Zen-StaffColo
-title = Zen-StaffColo
-host = 212.23.5.129
-
-++ Zen-Lon-East
-menu = Zen-Lon-East
-title = Zen-Lon-East
-host = 62.3.80.58
-
-++ Zen-Lon-West
-menu = Zen-Lon-West
-title = Zen-Lon-West
-host = 62.3.80.45
 
 ++ AAISP-L2TP
 menu = AAISP-L2TP
