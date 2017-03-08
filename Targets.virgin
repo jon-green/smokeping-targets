@@ -32,3 +32,52 @@ host = 194.168.4.100
 menu = DNS2
 title = 194.168.8.100
 host = 194.168.8.100
+
++ AAISP
+
+menu = AAISP
+title = AAISP Infrastructure
+
+++ AAISP-L2TP
+menu = AAISP-L2TP
+title = AAISP L2TP Server
+host = 90.155.53.19
+
++ Zen
+
+menu = Zen
+title = Zen Infrastructure
+
+++ Zen-Man
+menu = Zen-Man
+title = Zen-Man
+host = console02.wh-man.zen.net.uk
+
+++ Zen-Roch
+menu = Zen-Roch
+title = Zen-Roch
+host = console01.sp-roch.zen.net.uk
+
+++ Zen-Lon
+menu = Zen-Lon
+title = Zen-Lon
+host = console01.th-lon.zen.net.uk
+
++ Sky
+
+menu = Sky
+title = Sky Infrastructure
+
+++ NTP
+menu = NTP1
+title = ntp1.isp.sky.com
+host = 90.207.238.105
+
++ Plusnet
+menu = Plusnet
+title = Plusnet Infrastructure
+
+++ Plusnet-CDNS1
+menu = Plusnet-CDNS1
+title = Plusnet-CDNS1
+host = 212.159.6.9
