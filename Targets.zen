@@ -25,42 +25,6 @@ menu = Default-GW
 title = Zen Router
 host = 192.168.0.2
 
-+ ISP
-menu = ISP
-title = ISP Things
-
-++ Plusnet-CDNS1
-menu = Plusnet-CDNS1
-title = Plusnet-CDNS1
-host = 212.159.6.9
-
-++ Plusnet-CDNS2
-menu = Plusnet-CDNS2
-title = Plusnet-CDNS2
-host = 212.159.13.50
-
-++ Sky-CDNS1
-menu = Sky-CDNS1
-title = Sky-CDNS1
-host = dns1.skybroadband.com
-
-++ Sky-CDNS2
-menu = Sky-CDNS2
-title = Sky-CDNS2
-host = dns2.skybroadband.com
-
-++ Sky-NTP
-menu = Sky-NTP
-title = Sky-NTP
-host = ntp1.isp.sky.com
-
-
-
-++ AAISP-L2TP
-menu = AAISP-L2TP
-title = AAISP L2TP Server
-host = 90.155.53.19
-
 + DSL
 menu = Broadband
 title = Broadband Lines
