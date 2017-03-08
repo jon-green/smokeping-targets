@@ -72,12 +72,3 @@ title = Sky Infrastructure
 menu = NTP1
 title = ntp1.isp.sky.com
 host = 90.207.238.105
-
-+ Plusnet
-menu = Plusnet
-title = Plusnet Infrastructure
-
-++ Plusnet-CDNS1
-menu = Plusnet-CDNS1
-title = Plusnet-CDNS1
-host = 212.159.6.9
