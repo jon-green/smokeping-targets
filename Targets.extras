@@ -1,0 +1,109 @@
++ AAISP
+
+menu = AAISP
+title = AAISP Infrastructure
+
+++ AAISP-L2TP
+menu = AAISP-L2TP
+title = AAISP L2TP Server
+host = 90.155.53.19
+
++ Zen
+
+menu = Zen
+title = Zen Infrastructure
+
+++ Zen-Man
+menu = Zen-Man
+title = Zen-Man
+host = console02.wh-man.zen.net.uk
+
+++ Zen-Roch
+menu = Zen-Roch
+title = Zen-Roch
+host = console01.sp-roch.zen.net.uk
+
+++ Zen-Lon
+menu = Zen-Lon
+title = Zen-Lon
+host = console01.th-lon.zen.net.uk
+
+++ Zen-CDNS1
+menu = Zen-CDNS1
+title = Zen-CDNS1
+host = 212.23.3.100
+
+++ Zen-CDNS2
+menu = Zen-CDNS2
+title = Zen-CDNS2
+host = 212.23.6.100
+
+++ Zen-Lon-Step
+menu = Zen-Lon-Step
+title = Zen-Lon-Step
+host = 62.3.90.110
+
+++ Zen-Lon-Far
+menu = Zen-Lon-Far
+title = Zen-Lon-Far
+host = 62.3.90.125
+
+++ Zen-Sthbk-Far
+menu = Zen-Sthbk-Far
+title = Zen-Sthbk-Far
+host = 62.3.90.117
+
+++ Zen-Sthbk-Step
+menu = Zen-Sthbk-Step
+title = Zen-Sthbk-Step
+host = 62.3.90.114
+
+++ Zen-StaffColo
+menu = Zen-StaffColo
+title = Zen-StaffColo
+host = 212.23.5.129
+
+++ Zen-Lon-East
+menu = Zen-Lon-East
+title = Zen-Lon-East
+host = 62.3.80.58
+
+++ Zen-Lon-West
+menu = Zen-Lon-West
+title = Zen-Lon-West
+host = 62.3.80.45
+
+
++ Sky
+
+menu = Sky
+title = Sky Infrastructure
+
+++ DNS1
+menu = DNS1
+title = dns1.skybroadband.com
+host = 90.207.238.97
+
+++ DNS2
+menu = DNS2
+title = dns2.skybroadband.com
+host = 90.207.238.99
+
+++ NTP
+menu = NTP1
+title = ntp1.isp.sky.com
+host = 90.207.238.105
+
++ Plusnet
+menu = Plusnet
+title = Plusnet Infrastructure
+
+++ Plusnet-CDNS1
+menu = Plusnet-CDNS1
+title = Plusnet-CDNS1
+host = 212.159.6.9
+
+++ Plusnet-CDNS2
+menu = Plusnet-CDNS2
+title = Plusnet-CDNS2
+host = 212.159.13.50
